@@ -32,6 +32,7 @@
         top: 0;
         display: flex;
         justify-content: center;
+        background-color: #0a0a0e;
         .wrapper {
             .header {
                 display: flex;
@@ -57,8 +58,11 @@
                 align-items: center;
                 gap: 0 18px;
                 a {
-                    color: #f2efe6;
+                    color: var(--muted);
                     text-decoration: none;
+                    &:hover {
+                        color: var(--ink);
+                    }
                 }
             }
         }

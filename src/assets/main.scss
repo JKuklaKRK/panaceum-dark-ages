@@ -11,9 +11,9 @@ html {
     --shadow: rgba(0, 0, 0, .5);
 }
 body {
-    background-color: #0a0a0e;
     color: var(--ink);
     font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+    background-color: #0a0a0e;
 }
 
 main {
@@ -77,11 +77,21 @@ main {
     gap: 24px;
     .box {
         display: flex;
+        flex-direction: column;
         gap: 14px;
         align-items: flex-start;
+        flex-grow: 1;
+        width: 25%;
         border: 1px solid rgba(255, 255, 255, .08);
         background: linear-gradient(180deg, rgba(255, 255, 255, .04), rgba(255, 255, 255, .02));
         border-radius: 14px;
         padding: 18px;
+        .box-header {
+            display: flex;
+            gap: 14px;
+            h6 {
+                font-size: 1rem;
+            }
+        }
     }
 }

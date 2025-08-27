@@ -12,11 +12,17 @@ import Faq from "./Faq.vue";
 <template>
     <Navigation/>
     <Prologue/>
+    <div class="shade-border"></div>
     <About/>
+    <div class="shade-border"></div>
     <Plot/>
+    <div class="shade-border"></div>
     <Details/>
+    <div class="shade-border"></div>
     <Rules/>
+    <div class="shade-border"></div>
     <Characters/>
+    <div class="shade-border"></div>
     <Faq/>
 </template>
 

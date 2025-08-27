@@ -36,14 +36,6 @@
 <style lang="scss" scoped>
 .prologue {
     padding: 80px 0;
-    &::after {
-        content: "";
-        position: absolute;
-        inset: -10%;
-        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 200 200"><g fill="none" stroke="rgba(255,255,255,.04)"><circle cx="100" cy="100" r="98"/><circle cx="100" cy="100" r="70"/><circle cx="100" cy="100" r="40"/></g></svg>') center/60% no-repeat;
-        opacity: .7;
-        pointer-events: none;
-    }
     .prologue-desc {
         h5 {
             font-family: Cinzel, serif;

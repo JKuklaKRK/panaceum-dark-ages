@@ -13,4 +13,17 @@
     </section>
 </template>
 <style lang="scss" scoped>
+.plot {
+    .wrapper {
+        .big-box {
+            border: 1px solid rgba(255, 255, 255, .08);
+            background: linear-gradient(180deg, rgba(255, 255, 255, .04), rgba(255, 255, 255, .02));
+            border-radius: 14px;
+            padding: 18px;
+            p {
+                margin: 24px 0;
+            }
+        }
+    }
+}
 </style>
