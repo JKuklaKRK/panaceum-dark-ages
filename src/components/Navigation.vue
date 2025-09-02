@@ -20,7 +20,7 @@
                 <a href="#details">Miejsce i data</a>
                 <a href="#rules">Zasady</a>
                 <a href="#faq">FAQ</a>
-                <a href="/form" class="golden-btn">Zgłoszenia</a>
+                <a href="/panaceum-dark-ages/form" class="golden-btn">Zgłoszenia</a>
             </div>
         </div>
     </Nav>

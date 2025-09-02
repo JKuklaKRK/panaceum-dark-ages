@@ -1,10 +1,10 @@
 <script setup>
-import HomePage from './components/Homepage.vue'
+import router from '../router'
 </script>
 
 <template>
   <main>
-    <HomePage />
+    <router-view></router-view>
   </main>
 </template>
 
