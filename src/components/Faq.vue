@@ -28,11 +28,14 @@
                     <div class="box-header">
                         <h6>Kontakt do organizatorów</h6>
                     </div>
-                    <p>E-mail: <a href="mailto:kontakt@panaceumlarp.pl">wrednaŚwinia@chlewik.com</a></p>
+                    <p>E-mail: <a class="email-link" href="mailto:larppanaceum@gmail.com">larppanaceum@gmail.com</a></p>
                 </div>
             </div>
         </div>
     </section>
 </template>
 <style lang="scss" scoped>
+.email-link {
+    color: var(--muted)
+}
 </style>

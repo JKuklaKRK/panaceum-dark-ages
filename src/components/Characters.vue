@@ -26,4 +26,36 @@
     </section>
 </template>
 <style lang="scss" scoped>
+    .form {
+        .wrapper {
+            display: flex;
+            justify-content: space-between;
+            .form-desc {
+                h2 {
+                    margin: 0 0 14px;
+                }
+                p {
+                    margin: 1rem 0;
+                }
+                .btns-wrapper {
+                    display: flex;
+                    gap: 0 12px;
+                }
+
+            }
+            .form-details {
+                display: flex;
+                flex-direction: column;
+                gap: 14px;
+                min-width: 40%;
+                border: 1px solid rgba(255, 255, 255, .08);
+                background: linear-gradient(180deg, rgba(255, 255, 255, .04), rgba(255, 255, 255, .02));
+                border-radius: 14px;
+                padding: 18px;
+                .shade-border {
+                    margin: 12px 0;
+                }
+            }
+        }
+    }
 </style>
