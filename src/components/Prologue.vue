@@ -4,10 +4,16 @@
     <section class="prologue" id="prologue">
         <div class="wrapper">
             <div class="prologue-desc">
-                <h5>LARP - DARK AGES</h5>
-                <h2>Kronika otwarta. Krew wezwana.</h2>
-                <p>Mrok średniowiecza. Testament Krzywoustego rozdziera ziemię i serca. Dla ludzi – polityka. Dla nas – gra krwi. Wejdź do zamku, w którym narodzi się tajemnica <span class="italic">Panaceum</span>.</p>
-                <p class="italic">„Anno Domini MCLXXXVIII… Niebo ciężkie, ziemia rozdarta. Od dnia, gdy testament Bolesława ogłoszon, Polska jednością nie jest. Ja, Skryba, zwę to Dawnych Nocy początkiem – i pergamin znaczyć będę krwią waszych czynów.”</p>
+                <h5>Panaceum: Dawne Noce</h5>
+                <h2>Przebudzenie Dragosa</h2>
+                <p>„Gdy kruki krążyły nad kurhanami, a ogień płonął w świętych gajach, nie było jeszcze królów ni biskupów. Był tylko on – Voivoda Dragos. Pan ziemi, która rodziła się w mroku, karmiciel krwią, strażnik tajemnic, których boją się nawet bogowie..</p>
+                <p class="italic">Jest rok 966. Mieszko przyjmuje chrzest i otwiera bramy nowej wiary. Ziemia, która przez pokolenia znała tylko duchy przodków i ofiary w dymie, przyjmuje Boga z Zachodu.
+                    Dla ludzi – to początek państwa polskiego.
+                    Dla Dzieci Nocy – bluźnierstwo i zdrada dawnych układów.
+                    W tej godzinie przebudza się Dragos, prastary Voivoda Tzimisce. Jego ciało spoczywało w kurhanach, a teraz oczy otwierają się, by dostrzec świat odmieniony. Nie ufa nowemu porządkowi. Nie zna krzyża ani władzy papieża. Chce wiedzieć, co uczyniono z jego ziemiami.
+                    Dlatego wzywa was – Dzieci Nocy, przybyszów i potomków, książąt i heretyków. Każdy, kto nazywa się nieśmiertelnym, musi stanąć przed obliczem Dragosa i zdać świadectwo. Nie będzie litości dla kłamców. Nie będzie łaski dla tchórzy.
+                    To pierwsze Przebudzenie. Audiencja u Voivody. Sąd nad waszą lojalnością i przyszłością tych ziem. Przygotujcie się. Dragos pyta. A jego pytania są jak miecz – rozcinają krew, kości i dusze.
+                </p>
                 <div class="btns-wrapper">
                     <a class="btn btn-golden">Formularz zgłoszeniowy</a>
                     <a class="btn btn-black">Czytaj więcej</a>
@@ -26,6 +32,8 @@
                     <li><strong>Data:</strong> początek kwietnia 2025 (TBD)</li>
                     <li><strong>Liczba graczy:</strong> ~40</li>
                     <li><strong>Strój:</strong> historyczny / stylizowany dark-medieval</li>
+                    <li><strong>Planowane 10 odsłon larpa</strong></li>
+                    <li><strong>Mapa zamku:</strong> <a href="https://zamkomania.pl/foto6/dobczyce-pa.jpg" target="_blank">Kliknij tu</a></li>
                 </ul>
                 <div class="shade-border"></div>
                 <p>*Szczegóły logistyczne i pakiety noclegowe ogłosimy po potwierdzeniu rezerwacji zamku.</p>

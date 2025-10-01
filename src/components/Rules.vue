@@ -3,26 +3,26 @@
 <template>
     <section class="prologue" id="rules">
         <div class="wrapper column">
-            <h2>O grze</h2>
+            <h2>Zasady gry</h2>
             <p>„Panaceum: Dawne Noce” to LARP osadzony w realiach Vampire: the Masquerade – Dark Ages: polityka dzielnic po testamencie Krzywoustego, walka klanów o wpływy oraz cień Kościoła, który widzi zbyt wiele.</p>
             <div class="boxes-wrapper">
                 <div class="box">
                     <div class="box-header">
-                        <h6>Konflikty</h6>
+                        <h6>Dostępne klany</h6>
                     </div>
-                    <p>Szybkie rozstrzyganie: kamień–papier–nożyce lub karty (TBD). Testy jawne, bez dyskusji.</p>
+                    <a href="https://drive.google.com/file/d/1Cjd5FP61oGCsaCqXNGhvM3exhdto8-fc/view?usp=sharing" target="_blank">Tu będzie link do dostępnych klanów</a>
                 </div>
                 <div class="box">
                     <div class="box-header">
-                        <h6>Moce</h6>
+                        <h6>Jak starą postać mogę grać?</h6>
                     </div>
-                    <p>Uproszczone domeny klanowe (2–3 na klan). Reprezentacja efektów – znacznikami / kartami mocy.</p>
+                    <a href="https://drive.google.com/file/d/1qHEh4Y5F3Fm3nYrigOizgaGs3v63y18v/view" target="_blank">Zasady wieku postaci</a>
                 </div>
                 <div class="box">
                     <div class="box-header">
-                        <h6>Porozumienie społeczne</h6>
+                        <h6>Mechanika</h6>
                     </div>
-                    <p>X-Card / "Ok" / "Stop" dla komfortu. Zasada "nie zaskakuj gracza, zaskocz postać".</p>
+                    <a>Link do mechaniki</a>
                 </div>
                 <div class="box">
                     <div class="box-header">

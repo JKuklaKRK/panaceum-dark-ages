@@ -7,7 +7,7 @@
                 <h2>Zgłoszenia postaci</h2>
                 <p>Formularz zbiera preferencje klanowe i archetypy, cel postaci, granice komfortu oraz dane kontaktowe. Na podstawie zgłoszeń dopasujemy frakcje i szyte na miarę intrygi.</p>
                 <div class="btns-wrapper">
-                    <a class="btn btn-golden">Otwórz formularz</a>
+                    <a class="btn btn-golden" href="https://docs.google.com/forms/d/e/1FAIpQLSeJzyv0oOOx6CGzArN1ki2pVyAhMSoV0JHHAjHiAKh9dW7lHg/viewform" target="_blank">Otwórz formularz</a>
                     <a class="btn">Co Przygotować?</a>
                 </div>
             </div>
