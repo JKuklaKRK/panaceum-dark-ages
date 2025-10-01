@@ -15,7 +15,7 @@
                     To pierwsze Przebudzenie. Audiencja u Voivody. Sąd nad waszą lojalnością i przyszłością tych ziem. Przygotujcie się. Dragos pyta. A jego pytania są jak miecz – rozcinają krew, kości i dusze.
                 </p>
                 <div class="btns-wrapper">
-                    <a class="btn btn-golden">Formularz zgłoszeniowy</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJzyv0oOOx6CGzArN1ki2pVyAhMSoV0JHHAjHiAKh9dW7lHg/viewform" target="_blank" class="btn btn-golden">Formularz zgłoszeniowy</a>
                     <a class="btn btn-black">Czytaj więcej</a>
                 </div>
             </div>
