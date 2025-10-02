@@ -100,14 +100,6 @@
             font-size: 28px;
             margin: 0 0 14px;
         }
-        .imgs-row {
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            img {
-                max-width: 32%;
-            }
-        }
     }
 }
 </style>

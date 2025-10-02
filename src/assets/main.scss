@@ -130,3 +130,14 @@ main {
         border-color: #fff;
     }
 }
+
+
+.imgs-row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    img {
+        max-width: 32%;
+        border-radius: 6px;
+    }
+}
