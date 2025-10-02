@@ -34,6 +34,11 @@
                     </ul>
                     <p>Każdy LARP to osobna opowieść. Razem – to wielka saga o Polsce i jej cieniu, o świecie, w którym historia ludzi jest tylko powierzchnią, a prawdziwe decyzje zapadają nocą.</p>
                 </div>
+                <div class="imgs-row">
+                    <img src="../assets/img/swinia2.png"/>
+                    <img src="../assets/img/swinia3.png"/>
+                    <img src="../assets/img/swinia4.png"/>
+                </div>
                 <div class="box box-66">
                     <div class="box-header">
                         <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"></circle><path d="M7.5 12h9M12 7.5v9"></path></svg>
@@ -94,6 +99,14 @@
             font-family: Cinzel, serif;
             font-size: 28px;
             margin: 0 0 14px;
+        }
+        .imgs-row {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            img {
+                max-width: 32%;
+            }
         }
     }
 }

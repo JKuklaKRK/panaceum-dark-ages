@@ -19,24 +19,27 @@
                     <a class="btn btn-black">Czytaj więcej</a>
                 </div>
             </div>
-            <div class="quick-facts">
-                <h4>Szybkie fakty</h4>
-                <div class="shade-border"></div>
-                <div class="pills-wrapper">
-                    <span class="pill">Format: LARP / intryga polityczna</span>
-                    <span class="pill">Język: PL</span>
-                    <span class="pill">Czas: Dark Ages</span>
+            <div class="right-side prologue-right-side">
+                <div class="quick-facts">
+                    <h4>Szybkie fakty</h4>
+                    <div class="shade-border"></div>
+                    <div class="pills-wrapper">
+                        <span class="pill">Format: LARP / intryga polityczna</span>
+                        <span class="pill">Język: PL</span>
+                        <span class="pill">Czas: Dark Ages</span>
+                    </div>
+                    <ul>
+                        <li><strong>Miejsce:</strong> Zamek Dobczyce</li>
+                        <li><strong>Data:</strong> początek kwietnia 2025 (TBD)</li>
+                        <li><strong>Liczba graczy:</strong> ~40</li>
+                        <li><strong>Strój:</strong> historyczny / stylizowany dark-medieval</li>
+                        <li><strong>Planowane 10 odsłon larpa</strong></li>
+                        <li><strong>Mapa zamku:</strong> <a href="https://zamkomania.pl/foto6/dobczyce-pa.jpg" target="_blank">Kliknij tu</a></li>
+                    </ul>
+                    <div class="shade-border"></div>
+                    <p>*Szczegóły logistyczne i pakiety noclegowe ogłosimy po potwierdzeniu rezerwacji zamku.</p>
                 </div>
-                <ul>
-                    <li><strong>Miejsce:</strong> Zamek Dobczyce</li>
-                    <li><strong>Data:</strong> początek kwietnia 2025 (TBD)</li>
-                    <li><strong>Liczba graczy:</strong> ~40</li>
-                    <li><strong>Strój:</strong> historyczny / stylizowany dark-medieval</li>
-                    <li><strong>Planowane 10 odsłon larpa</strong></li>
-                    <li><strong>Mapa zamku:</strong> <a href="https://zamkomania.pl/foto6/dobczyce-pa.jpg" target="_blank">Kliknij tu</a></li>
-                </ul>
-                <div class="shade-border"></div>
-                <p>*Szczegóły logistyczne i pakiety noclegowe ogłosimy po potwierdzeniu rezerwacji zamku.</p>
+                <img src="../assets/img/swinia1.png"/>
             </div>
         </div>
     </section>
@@ -62,6 +65,7 @@
             max-width: 820px;
             color: var(--muted);
             font-size: 18px;
+            text-align: justify;
         }
         p.italic {
             margin-top: 22px;
@@ -69,6 +73,15 @@
             border-left: 3px solid var(--accent);
             background: rgba(255, 255, 255, .03);
             border-radius: 8px;
+        }
+    }
+    .prologue-right-side {
+        width: 50%;
+        img {
+            width: 100%;
+            margin: 20px 0 0;
+            border-radius: 10px;
+            box-shadow: 0px 0px 6px 1px rgba(255, 255, 255, 0.1);
         }
     }
     .btns-wrapper {
